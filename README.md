@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stormtrooperhan, aka Georgia Georgiou
 - 👀 I’m interested in Kotlin, Python, Data Science and visualisation alongside Machine Learning. 
-- 🌱 I’m currently learning to improve my Kotlin skills! 
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me: send me a message :) 
 
